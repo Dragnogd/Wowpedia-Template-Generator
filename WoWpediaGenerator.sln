@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WoWpediaGenerator", "WoWpediaGenerator\WoWpediaGenerator.vbproj", "{E09416E5-1F4D-463B-99B8-A3CACE6E2C0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E09416E5-1F4D-463B-99B8-A3CACE6E2C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E09416E5-1F4D-463B-99B8-A3CACE6E2C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E09416E5-1F4D-463B-99B8-A3CACE6E2C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E09416E5-1F4D-463B-99B8-A3CACE6E2C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14ADA3AF-F0B0-41FC-9339-C37B9F123D3E}
+	EndGlobalSection
+EndGlobal
